@@ -32,6 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NIKOLASANSUR/NIKOLASANSUR/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
